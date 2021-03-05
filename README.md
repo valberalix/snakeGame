@@ -1,2 +1,2 @@
 # snakeGame
-Tradicional Jogo da Cobrinha -- Snake Game
+Jogo da Cobrinha -- Snake Game 
