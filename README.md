@@ -1,2 +1,2 @@
-# snakeGame
-Jogo da Cobrinha -- Snake Game 
+# SnakeGame
+Jogo da Cobrinha / Snake Game 
